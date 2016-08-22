@@ -55,18 +55,8 @@ body {
   main h1 {
     font-size: 80%;
   }
-}
 
-@media screen and (max-width: 500px) {
   #external-links {
     width: 100%;
   }
-
-}
-
-
-/* @media screen and (max-width: 500px) {
-  body {
-    background-color: hotpink;
-  }
-} */
+} 
