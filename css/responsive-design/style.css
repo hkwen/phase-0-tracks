@@ -51,36 +51,19 @@ body {
   max-width: 960px;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 450px) {
   main h1 {
     font-size: 80%;
   }
-}
 
-@media screen and (max-width: 500px) {
-  #wikipedia {
-    background: url(wikipedia.png) no-repeat center center;
-    height: 50px;
-    width: 50px;
-  }
-
-  #shop {
-    background: url (shop.png) no-repeat center center;
-    height: 50px;
-    width: 50px;
-  }
-
-  #pinterest {
-    background: url (pinterest.png) no-repeat center center;
-    height: 50px;
-    width: 50px;
-  }
-
-}
-
-
-/* @media screen and (max-width: 500px) {
-  body {
+  main {
     background-color: hotpink;
   }
-} */
+
+  #external-links {
+    width: 100%;
+  }
+}
+
+
+
