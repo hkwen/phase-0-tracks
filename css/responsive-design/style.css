@@ -58,22 +58,8 @@ body {
 }
 
 @media screen and (max-width: 500px) {
-  #wikipedia {
-    background: url(wikipedia.png) no-repeat center center;
-    height: 50px;
-    width: 50px;
-  }
-
-  #shop {
-    background: url (shop.png) no-repeat center center;
-    height: 50px;
-    width: 50px;
-  }
-
-  #pinterest {
-    background: url (pinterest.png) no-repeat center center;
-    height: 50px;
-    width: 50px;
+  #external-links {
+    width: 100%;
   }
 
 }
