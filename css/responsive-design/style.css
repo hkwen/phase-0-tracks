@@ -51,7 +51,7 @@ body {
   max-width: 960px;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 450px) {
   main h1 {
     font-size: 80%;
   }
@@ -60,3 +60,4 @@ body {
     width: 100%;
   }
 } 
+
