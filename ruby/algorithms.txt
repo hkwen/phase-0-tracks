@@ -1,0 +1,34 @@
+Using an Elevator:
+-If you want to go down, press the down button.
+-Otherwise:
+	-Press the up button to go up.
+-Wait for the elevator door to open.
+-When the elevator door opens:
+	-Enter the elevator and turn around to face the elevator door.
+	-Press the button for the floor number you need to go to. 
+-Exit the elevator when you arrive on the selected floor number. 
+
+
+Real-Life Algorithm (Eating Cereal):
+-Open the refrigerator.
+-Grab the milk carton.
+-Close the refrigerator.
+-Go to the dish rack and grab a bowl and spoon. 
+-Put down the bowl, spoon, and milk carton on the kitchen table.
+-Sit on a chair next to the kitchen table.
+-Grab the cereal box on the kitchen table. 
+-Open the cereal box.
+-Until the bowl is half-full:
+	-Pour the cereal from the cereal box into the bowl.
+-Close the cereal box.
+-Open the milk carton.
+-Until the cereal is submerged in milk:
+	-Pour the milk into the bowl.
+-Close the milk carton.
+-Until the bowl is empty:
+	-Eat the cereal and milk with the spoon.
+-When the bowl is empty:
+	-Put the bowl and spoon in the sink.
+	-Put the milk carton back in the refrigerator.
+-Leave for work. 
+
